@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=180&section=header&text=Elias%20Almeida&fontSize=48&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=16&descColor=8b949e)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=_+Escrevendo+código+que+importa;_+Python+%7C+C+%7C+C%2B%2B+%7C+JavaScript;_+Construindo+soluções+reais;_+Always+learning%2C+always+building." alt="Typing SVG" />
 
 <br/>
 
@@ -62,12 +61,6 @@
 </div>
 
 ---
-
-### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eliasalmeidaa&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
-</div>
 
 ---
 
