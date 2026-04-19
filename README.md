@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elias%20Almeida&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20%7C%20Apaixonado%20por%20tecnologia&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Olá+mundo!+👋;Desenvolvedor+Full+Stack;Python+%7C+C+%7C+C%2B%2B+%7C+JavaScript;HTML+%7C+CSS+%7C+e+muito+mais...;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/eliasalmeidaa?style=social)](https://github.com/eliasalmeidaa)
 &nbsp;
@@ -74,9 +73,6 @@ class Elias:
 
 ### 🐍 Contribuições
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eliasalmeidaa/eliasalmeidaa/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
 
 ---
 
