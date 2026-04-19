@@ -49,9 +49,6 @@ class Elias:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasalmeidaa&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliasalmeidaa&theme=tokyonight&border_radius=10" alt="streak"/>
-</div>
 
 ---
 
@@ -69,15 +66,4 @@ class Elias:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eliasalmeidaa&theme=tokyo-night&border_radius=10&hide_border=true" alt="activity graph"/>
 </div>
 
----
 
-### 🐍 Contribuições
-
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-</div>
